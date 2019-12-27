@@ -1,3 +1,14 @@
+# XState Basic Exercise
+The purpose of this repo is to have a go at XState state machines
+
+- [ ] Create some UI
+- [ ] Add Mock Data
+- [ ] Fetch with normal API and store in local state
+- [ ] Install XState
+- [ ] Create Machine
+- [ ] Use Machine
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
